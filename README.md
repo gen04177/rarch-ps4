@@ -31,7 +31,8 @@ RArch is a homebrew port of [RetroArch](https://www.retroarch.com/) for jailbrok
 | 23 | fixgb | 49 | mojozork | 75 | stella2014 | 101 | virtualxt |
 | 24 | fmsx | 50 | mu | 76 | stella2023 | 102 | vitaquake2 |
 | 25 | freechaf | 51 | nekop2 | 77 | swanstation | 103 | wasm4 |
-| 26 | freeintv | 52 | nestopia | 78 | tamalibretro | 104 | xrick | 105 | devilutionx |
+| 26 | freeintv | 52 | nestopia | 78 | tamalibretro | 104 | xrick 
+| - | - | - | - | - | - | 105 | devilutionx |
 
 ## Acknowledgments
 
