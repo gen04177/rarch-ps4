@@ -36,6 +36,7 @@ RArch is a homebrew port of [RetroArch](https://www.retroarch.com/) for jailbrok
 
 For more information about the prerequisites for each emulation core, please visit: 
 https://docs.libretro.com/guides/core-list/
+
 https://github.com/libretro/docs/tree/master/docs/library
 
 ## Acknowledgments
