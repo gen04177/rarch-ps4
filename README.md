@@ -34,6 +34,8 @@ RArch is a homebrew port of [RetroArch](https://www.retroarch.com/) for jailbrok
 | 26 | freeintv | 52 | nestopia | 78 | tamalibretro | 104 | xrick 
 | - | - | - | - | - | - | 105 | devilutionx |
 
+For more information about the prerequisites for each emulation core, please visit: https://docs.libretro.com/library/bios/
+
 ## Acknowledgments
 
 Thanks to the [OpenOrbis PS4 Toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain) team for making PS4 homebrew development like this possible.
