@@ -2,7 +2,7 @@
 
 RArch is a homebrew port of [RetroArch](https://www.retroarch.com/) for jailbroken PS4 consoles. This port was inspired by OsirisX original RetroArch PS4 port, the first of its kind for this platform.
 
-## Available Cores (107 cores)
+## Available Cores (108 cores)
 
 | # | Core | # | Core | # | Core | # | Core |
 |---|------|---|------|---|------|---|------|
@@ -32,7 +32,7 @@ RArch is a homebrew port of [RetroArch](https://www.retroarch.com/) for jailbrok
 | 24 | fixgb | 51 | mojozork | 78 | stella2014 | 105 | wasm4 |
 | 25 | fmsx | 52 | mu | 79 | stella2023 | 106 | x1 |
 | 26 | freechaf | 53 | nekop2 | 80 | swanstation | 107 | xrick |
-| 27 | freeintv | 54 | nestopia | 81 | tamalibretro | - | - |
+| 27 | freeintv | 54 | nestopia | 81 | tamalibretro | 108 | spacecadetpinball |
 
 For more information about the prerequisites for each emulation core, please visit: 
 https://docs.libretro.com/guides/core-list/
