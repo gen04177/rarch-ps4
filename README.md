@@ -33,7 +33,7 @@ RArch is a homebrew port of [RetroArch](https://www.retroarch.com/) for jailbrok
 | 25 | fmsx | 52 | mu | 79 | spacecadetpinball | 106 | wacki |
 | 26 | freechaf | 53 | nekop2 | 80 | stella2014 | 107 | wasm4 |
 | 27 | freeintv | 54 | nestopia | 81 | stella2023 | 108 | x1 |
-| | | | | | | 109 | xrick |
+|-|-|-|-|-|-| 109 | xrick |
 
 For more information about the prerequisites for each emulation core, please visit: 
 1. https://docs.libretro.com/guides/core-list/
