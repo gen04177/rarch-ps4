@@ -2,38 +2,39 @@
 
 RArch is a homebrew port of [RetroArch](https://www.retroarch.com/) for jailbroken PS4 consoles. This port was inspired by OsirisX original RetroArch PS4 port, the first of its kind for this platform.
 
-## Available Cores (109 cores)
+## Available Cores (113 cores)
 
 | # | Core | # | Core | # | Core | # | Core |
 |---|------|---|------|---|------|---|------|
-| 1 | 2048 | 28 | frodo | 55 | numero | 82 | swanstation |
-| 2 | 81 | 29 | fuse | 56 | nxengine | 83 | tamalibretro |
-| 3 | amiarcadia | 30 | galaksija | 57 | o2em | 84 | tgbdual |
-| 4 | arduous | 31 | gearcoleco | 58 | oberon | 85 | theodore |
-| 5 | atari800 | 32 | genesis_plus_gx | 59 | opentyrian | 86 | thepowdertoy |
-| 6 | b2 | 33 | gong | 60 | pcsx_rearmed | 87 | tic80 |
-| 7 | bk | 34 | gpsp | 61 | picodrive | 88 | tinymsx |
-| 8 | bluemsx | 35 | gw | 62 | pokemini | 89 | tyrquake |
-| 9 | bsnes | 36 | handy | 63 | potator | 90 | uw8 |
-| 10 | cannonball | 37 | hatari | 64 | prboom | 91 | vaporspec |
-| 11 | cap32 | 38 | jaxe | 65 | prosystem | 92 | vecx |
-| 12 | chailove | 39 | jumpnbump | 66 | puae | 93 | vice_x128 |
-| 13 | crocods | 40 | lc3sim | 67 | puae2021 | 94 | vice_x64 |
-| 14 | devilutionx | 41 | lowresnx | 68 | px68k | 95 | vice_x64dtv |
-| 15 | dice | 42 | lutro | 69 | quasi88 | 96 | vice_x64sc |
-| 16 | dinothawr | 43 | m2000 | 70 | quicknes | 97 | vice_xcbm2 |
-| 17 | dosbox_pure | 44 | mame2003_plus | 71 | race | 98 | vice_xcbm5x0 |
-| 18 | ecwolf | 45 | mcsoftserve | 72 | reckless_drivin | 99 | vice_xpet |
-| 19 | fbalpha2012_cps1 | 46 | mednafen_pce_fast | 73 | reminiscence | 100 | vice_xplus4 |
-| 20 | fbalpha2012_cps2 | 47 | mednafen_wswan | 74 | retro8 | 101 | vice_xscpu64 |
-| 21 | fbalpha2012_cps3 | 48 | mesen-s | 75 | snes9x | 102 | vice_xvic |
-| 22 | fbalpha2012_neogeo | 49 | mgba | 76 | snes9x2002 | 103 | virtualjaguar |
-| 23 | fceumm | 50 | minivmac | 77 | snes9x2005 | 104 | virtualxt |
-| 24 | fixgb | 51 | mojozork | 78 | snes9x2010 | 105 | vitaquake2 |
-| 25 | fmsx | 52 | mu | 79 | spacecadetpinball | 106 | wacki |
-| 26 | freechaf | 53 | nekop2 | 80 | stella2014 | 107 | wasm4 |
-| 27 | freeintv | 54 | nestopia | 81 | stella2023 | 108 | x1 |
-|-|-|-|-|-|-| 109 | xrick |
+| 1 | 2048 | 29 | frodo | 57 | nxengine | 85 | tgbdual |
+| 2 | 81 | 30 | fuse | 58 | o2em | 86 | theodore |
+| 3 | amiarcadia | 31 | galaksija | 59 | oberon | 87 | thepowdertoy |
+| 4 | anarcht2 | 32 | gearcoleco | 60 | opentyrian | 88 | tic80 |
+| 5 | arduous | 33 | genesis_plus_gx | 61 | pcsx_rearmed | 89 | tinymsx |
+| 6 | atari800 | 34 | gong | 62 | picodrive | 90 | tyrquake |
+| 7 | b2 | 35 | gpsp | 63 | pokemini | 91 | uw8 |
+| 8 | bk | 36 | gw | 64 | potator | 92 | vaporspec |
+| 9 | bluemsx | 37 | handy | 65 | prboom | 93 | vecx |
+| 10 | bsnes | 38 | hatari | 66 | prosystem | 94 | vice_x128 |
+| 11 | cannonball | 39 | jaxe | 67 | puae | 95 | vice_x64 |
+| 12 | cap32 | 40 | jumpnbump | 68 | puae2021 | 96 | vice_x64dtv |
+| 13 | chailove | 41 | lc3sim | 69 | px68k | 97 | vice_x64sc |
+| 14 | crocods | 42 | lowresnx | 70 | quasi88 | 98 | vice_xcbm2 |
+| 15 | devilutionx | 43 | lutro | 71 | quicknes | 99 | vice_xcbm5x0 |
+| 16 | dice | 44 | m2000 | 72 | race | 100 | vice_xpet |
+| 17 | dinothawr | 45 | mame2003_plus | 73 | reckless_drivin | 101 | vice_xplus4 |
+| 18 | dosbox_pure | 46 | mcsoftserve | 74 | reminiscence | 102 | vice_xscpu64 |
+| 19 | ecwolf | 47 | mednafen_pce_fast | 75 | retro8 | 103 | vice_xvic |
+| 20 | fbalpha2012_cps1 | 48 | mednafen_wswan | 76 | snes9x | 104 | virtualjaguar |
+| 21 | fbalpha2012_cps2 | 49 | mesen-s | 77 | snes9x2002 | 105 | virtualxt |
+| 22 | fbalpha2012_cps3 | 50 | mgba | 78 | snes9x2005 | 106 | vitaquake2 |
+| 23 | fbalpha2012_neogeo | 51 | minivmac | 79 | snes9x2010 | 107 | wacki |
+| 24 | fceumm | 52 | mojozork | 80 | spacecadetpinball | 108 | wasm4 |
+| 25 | fixgb | 53 | mu | 81 | stella2014 | 109 | x1 |
+| 26 | fmsx | 54 | nekop2 | 82 | stella2023 | 110 | xrick |
+| 27 | freechaf | 55 | nestopia | 83 | swanstation | 111 | xscreensaver apple2 |
+| 28 | freeintv | 56 | numero | 84 | tamalibretro | 112 | xscreensaver m6502 |
+|-|-|-|-|-|-| 113 | xscreensaver pacman |
 
 For more information about the prerequisites for each emulation core, please visit: 
 1. https://docs.libretro.com/guides/core-list/
