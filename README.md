@@ -41,6 +41,6 @@ For more information about the prerequisites for each emulation core, please vis
 2. https://github.com/libretro/docs/tree/master/docs/library
 3. https://www.youtube.com/playlist?list=PLRZLf9_F39bLqIPz8vPYpCPAKlyRFCkNF
 
-## Acknowledgments
+## Special Thanks
 
 Thanks to the [OpenOrbis PS4 Toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain) team for making PS4 homebrew development like this possible.
