@@ -34,7 +34,7 @@ RArch is a homebrew port of [RetroArch](https://www.retroarch.com/) for jailbrok
 | 26 | fmsx | 55 | nekop2 | 84 | swanstation | 113 | xscreensaver m6502 |
 | 27 | freechaf | 56 | nestopia | 85 | tamalibretro | 114 | xscreensaver pacman |
 | 28 | freeintv | 57 | numero | 86 | tgbdual | 115 | xscreensaver pong |
-| 29 | frodo | 58 | nxengine | 87 | theodore | | |
+| 29 | frodo | 58 | nxengine | 87 | theodore |-|-|
 
 For more information about the prerequisites for each emulation core, please visit: 
 1. https://docs.libretro.com/guides/core-list/
